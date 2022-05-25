@@ -1,5 +1,5 @@
 
-# Web Automation Based api Algo Trading for Broaker Zerodha
+# Web Automation Based api Algo Trading for Broker Zerodha
 
 This is python based library created for simple algo trading, It is developed using selenium. It helps for automatic data collection from [Zerotha Official Website](.https://kite.zerodha.com/)
 
